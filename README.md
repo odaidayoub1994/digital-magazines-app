@@ -1,0 +1,1 @@
+# digital-magazines-app
