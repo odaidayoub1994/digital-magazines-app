@@ -5,6 +5,6 @@ export default {
     host: process.env.DB_HOST || "localhost",
     port: parseInt(process.env.DB_PORT || "5432"), // Parse port as an integer
     database: process.env.DB_DATABASE || "postgres",
-    dialect: "postgres",
-  },
+    dialect: "postgres"
+  }
 };
